@@ -1,5 +1,7 @@
 # Scotland Yard AI
 
+<img src="images/gameplay.png" alt="gameplay" />
+
 AI project for the game **Scotland Yard**, with game assets created by the University of Bristol, featuring multiple algorithms for both Mr. X and the detectives. This project includes multiple AI strategies such as One-Step Lookahead, Paranoid Minimax, Expectimax, and Monte Carlo Tree Search (MCTS) with several enhancements for efficiency and realism.
 
 > [!IMPORTANT]
