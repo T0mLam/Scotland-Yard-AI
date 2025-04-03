@@ -6,6 +6,8 @@ AI project for the game **Scotland Yard**, with game assets created by the Unive
 
 > [!IMPORTANT]
 > This project was submitted as the our final assignment for the first year COMS10018: Object Oriented Programming and Algorithms I module. This repository is for demostration purposes only, please do not copy our code. 
+>
+> **Credit:** <a href="https://github.com/archiekind">Archie Kind</a>
 
 ## 📌 Features
 
