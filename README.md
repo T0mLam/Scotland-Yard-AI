@@ -66,7 +66,7 @@ AI project for the game **Scotland Yard**, with game assets created by the Unive
 
 1. Clone the repository:
  ```bash
- git clone https://github.com/yourusername/scotland-yard-ai.git
+ git clone https://github.com/T0mLam/Scotland-Yard-AI.git
  cd scotland-yard-ai
  ```
 2. Run the game:
